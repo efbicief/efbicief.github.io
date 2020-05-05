@@ -5,8 +5,8 @@
 @font-face {
     font-family: 'disposabledroid_bbitalic';
     src: url('myfont-webfont.eot?#iefix') format('embedded-opentype'), 
-        url('/resources/fonts/disposabledroidbb_ital.woff') format('woff'),
-        url('/resources/fonts/disposabledroidbb_ital.woff2') format('woff2');
+        url('fonts/disposabledroidbb_ital.woff') format('woff'),
+        url('fonts/disposabledroidbb_ital.woff2') format('woff2');
 }
 
 html{
@@ -26,6 +26,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  padding: 5px;
 } 
 
 .centretextbox {
