@@ -24,7 +24,7 @@ function changeSelect() {
         <a class="centre">pd-projects</a> 
         <a href="https://github.com/efbicief/pd-projects"><img src="resources/images/sound.gif"  class="centre"></a>
 		<a class="centre">SoundCloud</a> 
-        <a href="https://github.com/efbicief/pd-projects"><img src="resources/images/soundcloud.gif"  class="centre"></a>
+        <a href="https://soundcloud.com/user-40472927"><img src="resources/images/soundcloud.gif"  class="centre"></a>
         `;
     }
 }
