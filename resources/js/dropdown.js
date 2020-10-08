@@ -26,5 +26,10 @@ function changeSelect() {
 		<a class="centre">SoundCloud</a> 
         <a href="https://soundcloud.com/user-40472927"><img src="resources/images/soundcloud.gif"  class="centre"></a>
         `;
+
+    } else if (document.getElementById("dropBox").value == "3") {
+        document.getElementById("divText").innerHTML = `
+        <a class="centre" href=moduleportal/index.html>Module Portal</a> 
+        `;
     }
 }
